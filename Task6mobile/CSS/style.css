@@ -1,0 +1,141 @@
+body {
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: 375px;
+}
+
+header {
+  background-image: url(/IMG/mobile/image-header.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  font-size: 18px;
+  color: hsl(0, 0%, 100%);
+}
+
+.navbar .navbar-nav .nav-link {
+  color: hsl(0, 0%, 100%);
+  font-size: 1.1em;
+}
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #b0e6e3;
+  color: hsl(0, 0%, 100%);
+}
+
+.learn1 {
+  text-decoration: none;
+  color: black;
+}
+
+.learn1:hover {
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: yellow;
+  text-decoration-thickness: 10px;
+}
+
+.learn2 {
+  text-decoration: none;
+  color: black;
+}
+
+.learn2:hover {
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: red;
+  text-decoration-thickness: 10px;
+}
+
+.egg {
+  background-image: url(/IMG/mobile/image-transform.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
+.glass {
+  background-image: url(/IMG/mobile/image-stand-out.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
+.cherry {
+  background-image: url(/IMG/mobile/image-graphic-design.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+
+.orange {
+  background-image: url(/IMG/mobile/image-photography.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+
+.milk {
+  background-image: url(/IMG/mobile/image-gallery-milkbottles.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+}
+
+.orange2 {
+  background-image: url(/IMG/mobile/image-gallery-orange.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+}
+
+.waffle {
+  background-image: url(/IMG/mobile/image-gallery-cone.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+}
+
+.sugar {
+  background-image: url(/IMG/mobile/image-gallery-sugar-cubes.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+}
+
+.card-img-top {
+  width: 17%;
+}
+.card {
+  border: none;
+}
+
+footer {
+  background-color: #a1decf;
+  height: 300px;
+  color: hsl(168, 34%, 41%);
+}
+
+.footNav {
+  color: hsl(168, 34%, 41%) !important;
+}
+
+.footNav:hover {
+  color: white !important;
+}
+
+.icon {
+  color: hsl(168, 34%, 41%) !important;
+}
+
+.icon:hover {
+  color: white !important;
+}
